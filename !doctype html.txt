@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>Customer Services Direct</title>
+  <title>PCS Customer Services</title>
 </head>
 <body style="display:flex;min-height:100vh;align-items:center;justify-content:center;background:#f9f9f9;">
   <a href="tel:+12257911177"
