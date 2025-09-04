@@ -1,1 +1,16 @@
 # Petro-Chem-Services-Direct
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>PCS Customer Services</title>
+</head>
+<body style="display:flex;min-height:100vh;align-items:center;justify-content:center;background:#f9f9f9;">
+  <a href="tel:+12257911177"
+     style="font:22px/1.3 system-ui;padding:18px 28px;border:2px solid #007BFF;border-radius:14px;
+            text-decoration:none;color:#007BFF;font-weight:bold;">
+    📞 PCS Customer Services<br>(225-791-1177)
+  </a>
+</body>
+</html>
